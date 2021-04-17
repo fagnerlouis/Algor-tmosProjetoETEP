@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "perguntasAndRespostas"
 // Função : Jogo de pergunta e respostas
 // Autor : Fagner Louis, Victoria Taveira
 // Professor: Marcos Candia
